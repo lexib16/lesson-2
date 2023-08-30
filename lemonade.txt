@@ -1,7 +1,5 @@
 lemonade recipe:
 1. water
 2.lemon
-3.sugar
-4.orange
-5.mint
-6.more sugar
+3.orange
+4.mint
